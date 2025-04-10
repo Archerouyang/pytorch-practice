@@ -23,3 +23,8 @@ This repository documents my hands-on learning journey through the fundamental c
           self.embed_size = embed_size
           self.heads = heads
           self.head_dim = embed_size // heads
+
+### 2025-03-26 🚀
+**Update** 
+- *Transformer Decoder*
+
