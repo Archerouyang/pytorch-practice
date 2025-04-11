@@ -10,25 +10,6 @@ This repository documents my hands-on learning journey through the fundamental c
 
 ## 📚 Daily Log
 
-### 2025-03-26 🚀
-**Update** 
-- *Repository initialization*
-- *Basic functions in PyTorch*
-- *Self-Attention from scratch*
-  ```python
-  # starter code
-  # Self-Attention Initialization
-  class SelfAttention(nn.Module):
-      def __init__(self, embed_size, heads):
-          super(SelfAttention, self).__init__()
-          self.embed_size = embed_size
-          self.heads = heads
-          self.head_dim = embed_size // heads
-
-### 2025-03-26 🚀
-**Update** 
-- *Transformer Decoder*
-
 ### 2025-04-10 🚀
 **Update** 
 - *Hands on LoRA*
@@ -44,3 +25,21 @@ This repository documents my hands-on learning journey through the fundamental c
         self.dropout = dropout
         self.merge = merge
 
+### 2025-03-26 🚀
+**Update** 
+- *Transformer Decoder*
+
+### 2025-03-26 🚀
+**Update** 
+- *Repository initialization*
+- *Basic functions in PyTorch*
+- *Self-Attention from scratch*
+  ```python
+  # starter code
+  # Self-Attention Initialization
+  class SelfAttention(nn.Module):
+      def __init__(self, embed_size, heads):
+          super(SelfAttention, self).__init__()
+          self.embed_size = embed_size
+          self.heads = heads
+          self.head_dim = embed_size // heads
