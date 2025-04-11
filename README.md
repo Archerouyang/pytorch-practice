@@ -29,7 +29,7 @@ This repository documents my hands-on learning journey through the fundamental c
 **Update** 
 - *Transformer Decoder*
 
-### 2025-03-26 🚀
+### 2025-03-25 🚀
 **Update** 
 - *Repository initialization*
 - *Basic functions in PyTorch*
